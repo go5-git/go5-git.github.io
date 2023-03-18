@@ -1,0 +1,127 @@
+body {
+    background-color: rgb(255, 255, 182);
+  }
+
+.bar{
+    width: 1300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 10px;
+}
+.people{
+    display: flex;
+    width: 1420px;
+    align-items: center;
+}
+
+p{
+    font-size: 1cm;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav{
+        width: 1300px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50px;
+
+}
+.nav-description{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+
+}
+.middle1{
+        padding: 100px;
+}
+.middle1{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        
+}
+.middle1{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: flex-start;
+        
+}
+
+.nav--top__box {
+    width: 100%;
+    margin-bottom: 50px;
+    background-color: rgb(255, 253, 251);
+    border-radius: 20%;
+
+}
+.midddle1--picture__box__controls__text, img src{
+    
+    color:aliceblue;
+    
+}
+
+.people{
+    justify-items: center;
+    size-adjust: 100px;
+}
+.midddle1--picture__box__1 {
+    width: 100%;
+    margin-bottom: 35px;
+    background-color: rgb(253, 143, 58);
+  
+
+}
+.midddle1--picture__box__2{
+    width: 100%;
+    margin-bottom: 35px;
+    background-color: rgb(192, 40, 2);
+
+}
+.midddle1--picture__box__3 {
+    width: 100%;
+    margin-bottom: 35px;
+    background-color: rgb(253, 143, 58);
+}
+.nav--top__box :hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.35);
+}
+
+.midddle1--picture__box :hover {
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.35);
+    }
+
+
+.midddle1--picture__box__image{
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+      
+}
+.midddle1--picture__box__controls__text{
+    margin: 0 auto;
+}
+.midddle1--picture__box__controls__text h2 h3 h4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1:hover, h2:hover, h3:hover, h4:hover{
+      text-decoration: underline;
+      cursor: pointer;
+}
+
+
+
+.notifications__notifs .notifications__notifs--box{
+        display: flex;
+        align-items: center;
+        
+}

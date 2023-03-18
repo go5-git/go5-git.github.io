@@ -1,0 +1,118 @@
+body {
+    background-color: rgb(255, 255, 182);
+  }
+.nav, h1{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+.middle1 h1{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.nav{
+        width: 500px;
+        display: flex;
+        flex-direction: row;
+
+
+}
+.midddle1--picture__box__controls__text-1{
+    padding: 20pt;
+    margin-left: 80pt;
+}
+.nav-description{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-around;
+}
+
+.nav-button---logo{
+    margin-left: 500pt;
+}
+
+.middle1{
+        padding: 100px;
+}
+.middle1{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+}
+.middle1{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: flex-start;
+       
+        
+}
+
+.nav--top__box {
+    width: 100%;
+    margin-bottom: 50px;
+    background-color: rgb(255, 253, 251);
+
+ 
+
+}
+.midddle1--picture__box__controls__text, img src{
+    color:aliceblue;
+    
+}
+.midddle1--picture__box__1 {
+    width: 100%;
+    margin-bottom: 35px;
+    background-color: rgb(253, 143, 58);
+   
+
+}
+.midddle1--picture__box__2{
+    width: 100%;
+    margin-bottom: 35px;
+    background-color: rgb(192, 40, 2);
+  
+
+}
+.midddle1--picture__box__3 {
+    width: 100%;
+    margin-bottom: 35px;
+    background-color: rgb(253, 143, 58);
+
+}
+.nav--top__box :hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.35);
+}
+
+.midddle1--picture__box :hover {
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.35);
+    }
+
+.midddle1--picture__box__controls__text_Uber{
+        font-size: 44px;
+        color: aliceblue;
+        position: relative;
+
+}
+
+.midddle1--picture__box__image{
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+      
+}
+
+h2:hover, h3:hover, h4:hover {
+      text-decoration: underline;
+      cursor: pointer;
+}
+
+
+.notifications__notifs .notifications__notifs--box{
+        display: flex;
+        align-items: center;
+        
+}
